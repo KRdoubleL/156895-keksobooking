@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Kirill Shubenok](https://up.htmlacademy.ru/javascript/16/user/156895).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Смирнов](https://github.com/dutch92).
 
 ---
 
